@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-    pintf("I's my first program on GitHub"\n);
+    pintf("It's my first program on GitHub"\n);
 }
